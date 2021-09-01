@@ -1,3 +1,3 @@
-# reto-2-devops backend 
+# Reto 2 DevOps Backend 
 
-Dentro de la carpeta `/Jar Estable` se encuentra el jar listo para ser ejecutado y desplegado 
+Dentro de la carpeta `/Jar Estable` se encuentra el jar listo para ser ejecutado con el comando `java -jar nombredeljar` y desplegado.
